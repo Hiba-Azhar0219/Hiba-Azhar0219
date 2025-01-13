@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiba-Azhar0219
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning MERN STACK Development
+- 👀 I’m interested in Game Development using java. My github reflects day-to-day progerss upon this sector. 
+- 🌱 Besides, I know the frontend web-development but soon I wil be learning MERN STACK Development.
 - 📫 How to reach me www.linkedin.com/in/hiba-azhar-a86798317
   
 
