@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Hiba Azhar
-**A Turbo-Mode Full Stack Developer || 3D Front-End Developer  || Back-End Developer ||Freelancer at Upwork**
+**A Turbo-Mode Full Stack Developer || 3D Front-End Developer  || Back-End Developer || Freelancer at Upwork**
 
 Email Me 👉 ✉️ **hiba.officialwork.com** For Collaboration/Project or Anything Else. 😊😊
 
